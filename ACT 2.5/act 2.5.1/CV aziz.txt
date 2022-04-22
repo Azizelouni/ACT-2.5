@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+<meta charset="utf-8">
+<title>CV Ayoub</title>
+</head>
+<body>
+<img src="aziz.jpg" alt="Mohamed Aziz El Ouni" />
+<h1>Mohamed Aziz EL Ouni <br> Consultant Test & Validation </h1>
+<h2>Déscription</h2>
+<p>Je suis El Ouni Mohamed Aziz, 27 ans, Consultant test et validation chez <strong>Talan</strong> depuis Avril 22 <br>
+passioné par la qualité et l'IT, je me suis convertis aprés avoir réaliser de differentes expériences en tant qu'un ingénieur Qualité chez
+<strong>Latécoère</strong> et <strong>Valeo tunisie</strong>.</p>
+<p>
+<a href="#Mon expérience">Mon expérience</a><br />
+<a href="#Mes compétences">Mes compétences</a><br />
+<a href="#Ma formation">Ma formation</a><br />
+</p>
+
+
+
+<h2 id="Mon expérience">Mon expérience</h2>
+<p><ol>
+<li> <h3>Tala Tunisie</h3> </li>
+<p>a partir d'Avril 2022:
+<h4>Formation Test et validation</h4>
+<br>Programmation en Java OOP
+<br> Création d'une base de données sur MySQL
+<br> Developper un site web avec HTML et CSS
+<br> fondamenteaux des test logiciels
+</p>
+
+
+
+<li> <h3>Latécoère Tunisie</h3> </li>
+<p>De janvier 2022 jusqu'à avril 2022
+<h4>Ingénieur Qualité produit</h4>
+<br> -Le traitement des incidents et non conformité clients à travers
+la réalisation des rapports 8D et la communication du Plan
+d'action dans les délais.
+<br> -Le traitement des non conformité détectés en interne :
+Point GEMBA et réalisation des action immédiate de
+sécurisation via les fiches de contrôle renforcés.
+<br>-Assurer la qualification des opérateurs.
+<br>-La gestion des réunions qualité hebdomadaire ( méthode
+SQCDM) avec les membres de l'équipe afin de :
+*Partager la mise à jour des indicateurs qualité
+*Suivi et réalisation des plan d'actions qualité et améliorer les
+indicateurs.
+
+</p>
+
+<li> <h3>Valéo Tunisie</h3> </li>
+<p>De Fevrier 2021 jusqu'à janvier 2022
+<h4>Ingénieur qualité production</h4>
+<br> être le responsable de l’arrêt de la production au 1er défaut
+ainsi que de l’alerte le cas échéant
+<br>-Respectez les procédures Qualité et participez à l'amélioration
+des standards.
+<br> -Responsable de l’analyse du produit selon les besoins (labo,
+AQF)
+<br>-La réalisation du plan d'action selon les engagements pris
+auprès du client.
+<br>-Responsable de la réception des produits défectueux des clients
+ainsi que du Feed-Back selon les délais définis.
+<br>-Préparez et participez aux visites d'audit process clients
+<br>-Participez à la mise en place du plan d'amélioration
+</p>
+<h2 id="Stage">Stage</h2>
+<p>De janvier 2019 jusqu'à juin 2019
+  <br> Etude du système de radar tunisien
+  <br> etude de mise en place du system WAM/MLAT.
+  <br> élaboration d'un cahier des charges pour l'implémentation du système WAM/MLAT
+  <br>a l'aéroport sfax thyna.
+</p>
+
+<h2 id="Formation professionelle">Ma formation</h2>
+<h3>International training centre<h3>
+  <br>Maîtrise des normes :
+  <br>ISO 9001 version 2015
+  <br>ISO 14001 version 2015
+  <br>ISO 45001 version 2018
+  <br>ISO 19011 version 2018
+
+
+
+<h2 id="Formation Académique">Ma formation</h2>
+
+
+<li> <h3>Ingénieur Aéronautique</h3> </li>
+<p>juin 2019
+<h4>Ecole supérieur de l'aeronautique et des technologies</h4>
+
+
+
+</body>
+</html>
